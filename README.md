@@ -1,26 +1,24 @@
 # Mike Parsons
 
-Author and builder exploring local-first tools, structured-output harnesses,
-and practical reliability examples.
+I am an author and builder exploring how small open models can become useful,
+private, on-device assistants.
 
-## Current Focus
+I am interested in tools that run close to the person using them: assistants
+that can help with real work, keep private context private, and still be simple
+enough to inspect, test, and understand.
 
-- Building public, reusable examples with clear setup instructions.
-- Learning in the open while keeping private data and personal systems private.
-- Writing and publishing author-site work for fiction projects.
-- Exploring small, inspectable tools that make software workflows easier to
-  understand.
+Right now I am focused on local-first assistant experiments, structured-output
+reliability, and practical ways to make small models such as Gemma behave more
+predictably in ordinary workflows. I am also the author of The Mana Influx
+Series and Soul Spark Reclaimer.
 
-## Public Work Principles
+## What I Am Working Toward
 
-- Prefer simple, readable code over cleverness.
-- Include fake sample data instead of personal or production data.
-- Document what a project does, how to run it, and what is intentionally out of
-  scope.
-- Keep private notes, credentials, logs, and personal context out of public
-  repositories.
+I am spending a lot of time working out how to harness smaller models to be
+effective on device, and I am open to sharing what I have learned so far.
 
-## Projects
+## How I Work
 
-This profile is just getting started. Public repositories here will be added
-carefully, with README files that explain their purpose and status.
+I prefer practical applications of AI, and my work here is independent unless
+stated otherwise. I keep private notes, credentials, logs, and personal context
+out of public repositories.
