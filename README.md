@@ -1,6 +1,6 @@
 # Mike Parsons
 
-I am an author and builder exploring how small open models can become useful,
+I am an author, AI Craft leader, and builder exploring how small open models can become useful,
 private, on-device assistants.
 
 I am interested in tools that run close to the person using them: assistants
