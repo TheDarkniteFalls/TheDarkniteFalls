@@ -20,16 +20,14 @@ Series and Soul Spark Reclaimer.
 - Author-site and fiction-platform work for The Mana Influx Series and Soul
   Spark Reclaimer.
 
-## Public Projects
+## Publishing Next
 
-Small public projects I am building carefully:
+Small public projects I am preparing carefully:
 
-- [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate): a tiny
-  pattern for reviewable agent-run evidence packets.
-- [Local Model Reliability Example](https://github.com/TheDarkniteFalls/local-model-reliability-example):
-  a synthetic no-write validation demo for model output.
-- [Public Repo Safety Kit](https://github.com/TheDarkniteFalls/public-repo-safety-kit):
-  simple checks for public-candidate repositories.
+- EvidenceGate: a tiny pattern for reviewable agent-run evidence packets.
+- Local Model Reliability Example: a synthetic no-write validation demo for
+  model output.
+- Public Repo Safety Kit: simple checks for public-candidate repositories.
 
 Each project is intentionally small: one clear idea, fake data only, and a
 command a visitor can run locally.
