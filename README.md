@@ -3,8 +3,8 @@
 I am an author, AI Craft leader, and builder exploring local-first AI systems,
 structured-output reliability, and public-safe software workflows.
 
-I am interested in tools that run close to the person using them: assistants and
-automation that can help with real work, keep private context private, and stay
+I am interested in tools that run close to the person using them like assistants and
+automations that can help with real work, keep private context private, and stay
 simple enough to inspect, test, and understand.
 
 Right now I am focused on practical ways to make small models behave more
@@ -36,7 +36,7 @@ command a visitor can run locally.
 
 ## How I Work
 
-I prefer practical applications of AI over broad claims. Public examples use
+I prefer practical applications of AI over purely theoretical stuff. Public examples use
 fake data, explicit boundaries, and setup instructions that can be checked by
 another person.
 
