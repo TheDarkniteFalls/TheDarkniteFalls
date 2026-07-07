@@ -28,11 +28,22 @@ Small public projects I am building carefully:
   pattern for reviewable agent-run evidence packets.
 - [Local Model Reliability Example](https://github.com/TheDarkniteFalls/local-model-reliability-example):
   a synthetic no-write validation demo for model output.
+- [Context Boundary Examples](https://github.com/TheDarkniteFalls/context-boundary-examples):
+  synthetic checks for answers that must stay inside supplied evidence.
 - [Public Repo Safety Kit](https://github.com/TheDarkniteFalls/public-repo-safety-kit):
   simple checks for public-candidate repositories.
 
 Each project is intentionally small: one clear idea, fake data only, and a
 command a visitor can run locally.
+
+## How These Fit Together
+
+The projects form a small public workflow:
+
+1. Check a public-candidate repo before publishing with Public Repo Safety Kit.
+2. Leave a reviewable agent-run receipt with EvidenceGate.
+3. Validate structured local-model output before trusting it.
+4. Check that evidence-bound answers stay inside supplied context.
 
 ## How I Work
 
