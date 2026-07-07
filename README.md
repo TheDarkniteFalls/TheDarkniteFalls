@@ -30,6 +30,8 @@ Small public projects I am building carefully:
   a synthetic no-write validation demo for model output.
 - [Context Boundary Examples](https://github.com/TheDarkniteFalls/context-boundary-examples):
   synthetic checks for answers that must stay inside supplied evidence.
+- [Green-Spine QA Pattern](https://github.com/TheDarkniteFalls/green-spine-qa-pattern):
+  one-command proof that an important workflow still works.
 - [Public Repo Safety Kit](https://github.com/TheDarkniteFalls/public-repo-safety-kit):
   simple checks for public-candidate repositories.
 
@@ -44,6 +46,7 @@ The projects form a small public workflow:
 2. Leave a reviewable agent-run receipt with EvidenceGate.
 3. Validate structured local-model output before trusting it.
 4. Check that evidence-bound answers stay inside supplied context.
+5. Keep the important workflow healthy with one green-spine command.
 
 ## How I Work
 
