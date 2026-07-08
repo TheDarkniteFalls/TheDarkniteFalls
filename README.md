@@ -34,6 +34,8 @@ Small public projects I am building carefully:
   one-command proof that an important workflow still works.
 - [Public Repo Safety Kit](https://github.com/TheDarkniteFalls/public-repo-safety-kit):
   simple checks for public-candidate repositories.
+- [Codex Project Instructions Starter](https://github.com/TheDarkniteFalls/codex-project-instructions-starter):
+  copyable project instructions for agent-assisted work.
 
 Each project is intentionally small: one clear idea, fake data only, and a
 command a visitor can run locally.
@@ -47,6 +49,7 @@ The projects form a small public workflow:
 3. Validate structured local-model output before trusting it.
 4. Check that evidence-bound answers stay inside supplied context.
 5. Keep the important workflow healthy with one green-spine command.
+6. Give coding agents clear project rules before they work.
 
 ## How I Work
 
