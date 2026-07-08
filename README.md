@@ -24,12 +24,16 @@ Series and Soul Spark Reclaimer.
 
 Small public projects I am building carefully:
 
+- [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab):
+  a visitor-facing map of the public toolkit.
 - [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate): a tiny
   pattern for reviewable agent-run evidence packets.
 - [Local Model Reliability Example](https://github.com/TheDarkniteFalls/local-model-reliability-example):
   a synthetic no-write validation demo for model output.
 - [Context Boundary Examples](https://github.com/TheDarkniteFalls/context-boundary-examples):
   synthetic checks for answers that must stay inside supplied evidence.
+- [Agent Action Authority Examples](https://github.com/TheDarkniteFalls/agent-action-authority-examples):
+  a tiny classifier for proposed agent actions before execution.
 - [Green-Spine QA Pattern](https://github.com/TheDarkniteFalls/green-spine-qa-pattern):
   one-command proof that an important workflow still works.
 - [Public Repo Safety Kit](https://github.com/TheDarkniteFalls/public-repo-safety-kit):
@@ -44,12 +48,13 @@ command a visitor can run locally.
 
 The projects form a small public workflow:
 
-1. Check a public-candidate repo before publishing with Public Repo Safety Kit.
-2. Leave a reviewable agent-run receipt with EvidenceGate.
-3. Validate structured local-model output before trusting it.
-4. Check that evidence-bound answers stay inside supplied context.
-5. Keep the important workflow healthy with one green-spine command.
-6. Give coding agents clear project rules before they work.
+1. Start with Local Assistant Reliability Lab for the map.
+2. Check a public-candidate repo before publishing with Public Repo Safety Kit.
+3. Give coding agents clear project rules before they work.
+4. Classify proposed agent actions before execution.
+5. Leave a reviewable agent-run receipt with EvidenceGate.
+6. Validate structured local-model output and evidence-bound answers.
+7. Keep the important workflow healthy with one green-spine command.
 
 ## How I Work
 
