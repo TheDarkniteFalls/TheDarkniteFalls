@@ -1,21 +1,39 @@
 # Mike Parsons
 
-I am an author, AI Craft leader, and builder exploring local-first AI systems,
-structured-output reliability, and public-safe software workflows.
+I am an author, AI Craft leader, and builder exploring practical harnesses for
+reliable, human-accountable AI work.
 
-I am interested in tools that run close to the person using them like assistants and
-automations that can help with real work, keep private context private, and stay
-simple enough to inspect, test, and understand.
+I use small and open models, coding agents such as Codex, and other AI tools on
+real tasks. My public work focuses on what makes those workflows inspectable:
+explicit authority, structured outputs, evidence boundaries, repeatable checks,
+and human review.
 
-Right now I am focused on practical ways to make small models behave more
-predictably in ordinary workflows. I am also the author of The Mana Influx
-Series and Soul Spark Reclaimer.
+[EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate) is the
+flagship pattern: AI-assisted work should leave a receipt. It is the front door
+to a wider body of harness experiments and applied lessons, not the limit of
+the work.
+
+I am also the author of The Mana Influx Series and Soul Spark Reclaimer.
+
+## Start Here
+
+- Start with [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate)
+  for the core human-review pattern.
+- Use the [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)
+  to choose a runnable example by problem.
+
+## Latest Lessons
+
+- [AI-assisted work should leave a reviewable receipt](https://github.com/TheDarkniteFalls/evidencegate),
+  not just a chat history.
+- [A model may suggest an action without owning the authority to execute it](https://github.com/TheDarkniteFalls/agent-action-authority-examples).
+- [Reliable harnesses validate model output before trusting or applying it](https://github.com/TheDarkniteFalls/local-model-reliability-example).
 
 ## Current Focus
 
-- Local-first assistant experiments with small and open models.
-- Structured outputs, validation, and evidence packets that make AI-assisted
-  work reviewable.
+- Small-model and coding-agent harnesses for real tasks.
+- Structured outputs, context boundaries, action authority, and repeatable QA.
+- Evidence and human review for AI-assisted work.
 - Public/private boundaries for building with personal tools responsibly.
 - Author-site and fiction-platform work for The Mana Influx Series and Soul
   Spark Reclaimer.
@@ -24,10 +42,10 @@ Series and Soul Spark Reclaimer.
 
 Small public projects I am building carefully:
 
+- [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate): the
+  flagship pattern for reviewable agent-run receipts.
 - [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab):
-  a visitor-facing map of the public toolkit.
-- [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate): a tiny
-  pattern for reviewable agent-run evidence packets.
+  the starting map for the broader public toolkit.
 - [Local Model Reliability Example](https://github.com/TheDarkniteFalls/local-model-reliability-example):
   a synthetic no-write validation demo for model output.
 - [Context Boundary Examples](https://github.com/TheDarkniteFalls/context-boundary-examples):
@@ -49,18 +67,17 @@ command a visitor can run locally.
 The projects form a small public workflow:
 
 1. Start with Local Assistant Reliability Lab for the map.
-2. Check a public-candidate repo before publishing with Public Repo Safety Kit.
-3. Give coding agents clear project rules before they work.
-4. Classify proposed agent actions before execution.
-5. Leave a reviewable agent-run receipt with EvidenceGate.
-6. Validate structured local-model output and evidence-bound answers.
-7. Keep the important workflow healthy with one green-spine command.
+2. Give coding agents clear project rules and classify proposed actions.
+3. Validate model output, supplied evidence, and expected write boundaries.
+4. Keep the important workflow healthy with one green-spine command.
+5. Leave a reviewable receipt with EvidenceGate.
+6. Check the public-candidate repo before publishing it.
 
 ## How I Work
 
-I prefer practical applications of AI over purely theoretical stuff. Public examples use
-fake data, explicit boundaries, and setup instructions that can be checked by
-another person.
+I prefer practical applications of AI over purely theoretical work. Public
+examples use fake data, explicit boundaries, and setup instructions that can be
+checked by another person.
 
 My work here is independent unless stated otherwise. I keep private notes,
 credentials, logs, connector exports, and personal context out of public
