@@ -13,8 +13,22 @@ for people building serious systems.
 This profile is where I publish the practical results: plain-English guides,
 small runnable patterns, and evidence you can inspect for yourself.
 
-If you want to check out how Dungeons and Dragons meets Sci Fi meets the Apocalypse, look here: https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745
+Away from the technical work, I write stories where fantasy, science fiction,
+and the apocalypse collide. You can
+[meet The Mana Influx Series on Amazon](https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745).
 
+## A Project I'm Proud Of
+
+[EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate) began with a
+simple belief: AI-assisted work should leave a receipt. It has grown into a
+hardened reference implementation for revision-bound receipts from
+human-reviewed agent work, with adversarial tests, separately written Python
+and Node consumers, an unsigned in-toto attestation profile ready for standard
+signing, and a reproducible reviewer-study protocol.
+
+I am proud of what it proves, and equally proud that it says what it does not:
+unsigned receipts are not authenticated, and the reviewer study provides a
+method rather than pretending the result already exists.
 
 ## Choose Your Path
 
@@ -30,7 +44,8 @@ If you want to check out how Dungeons and Dragons meets Sci Fi meets the Apocaly
 ### I want to strengthen an AI-assisted build
 
 - Start with [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate)
-  for the core human-review pattern: AI-assisted work should leave a receipt.
+  for a hardened, inspectable way to bind claims, checks, file scope, and human
+  review to one Git revision.
 - Use the [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)
   to find runnable patterns by reliability problem.
 - Explore focused examples for [context boundaries](https://github.com/TheDarkniteFalls/context-boundary-examples),
@@ -40,8 +55,8 @@ If you want to check out how Dungeons and Dragons meets Sci Fi meets the Apocaly
 
 ## What Connects the Work
 
-The goal is to make AI-assisted building more accessible without lowering the standard of thought, control,
-or proof.
+The goal is to make AI-assisted building more accessible without lowering the
+standard of thought, control, or proof.
 
 - **Make capability accessible.** People should be able to direct ambitious
   projects in ordinary language and understand the decisions that matter.
@@ -54,7 +69,7 @@ or proof.
 
 I use these approaches on working websites, tools, workflows, local-model
 experiments, and creative projects. I am also the author of The Mana Influx
-Series and Soul Spark Reclaimer. 
+Series and Soul Spark Reclaimer.
 
-I try to make real things rather than explore purely theoretical problems and hype — I like leaving behind
-something another person can actually use.
+I try to make real things rather than explore purely theoretical problems or
+hype—I like leaving behind something another person can actually use.
