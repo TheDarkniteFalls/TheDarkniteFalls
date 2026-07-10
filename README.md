@@ -1,29 +1,39 @@
 # Mike Parsons
 
-I am an author, AI Craft leader, and builder exploring practical harnesses for
-reliable, human-accountable AI work.
+I help non-coders use Codex to turn ideas into working websites, tools,
+workflows, and creative projects without needing to become software engineers
+first.
+
+I am an author, AI Craft leader, and hands-on builder. My public work has two
+connected parts:
+
+- plain-English guidance for directing Codex, making the important decisions,
+  and checking the finished result; and
+- small open-source patterns that make AI-assisted work reliable, reviewable,
+  and safe to share.
 
 I use small and open models, coding agents such as Codex, and other AI tools on
-real tasks. My public work focuses on what makes those workflows inspectable:
-explicit authority, structured outputs, evidence boundaries, repeatable checks,
-and human review.
-
-[EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate) is the
-flagship pattern: AI-assisted work should leave a receipt. It is the front door
-to a wider body of harness experiments and applied lessons, not the limit of
-the work.
-
-I am also the author of The Mana Influx Series and Soul Spark Reclaimer.
+real tasks. I am also the author of The Mana Influx Series and Soul Spark
+Reclaimer.
 
 ## Start Here
 
-- If you are not a coder, start with the [Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)
-  for a plain-language way to set boundaries, review evidence, and help a
-  project learn from completed work.
-- Start with [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate)
-  for the core human-review pattern.
+### I want to build something with Codex
+
+- Start with [Build with Codex: A Plain-English Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)
+  to turn an idea into a bounded project without needing to read code.
+- Ask Codex to draft the [Agent Project Card](https://github.com/TheDarkniteFalls/agent-operator-handbook/blob/main/templates/AGENT_PROJECT_CARD.md)
+  so you only need to decide the destination, protected areas, and approval
+  points.
+- Use [Verify Without Reading Code](https://github.com/TheDarkniteFalls/agent-operator-handbook/blob/main/guides/VERIFY_WITHOUT_READING_CODE.md)
+  to check the result in plain language.
+
+### I want the technical reliability patterns
+
 - Use the [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)
   to choose a runnable example by problem.
+- Start with [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate)
+  for the core human-review pattern: AI-assisted work should leave a receipt.
 
 ## Latest Lessons
 
@@ -34,6 +44,9 @@ I am also the author of The Mana Influx Series and Soul Spark Reclaimer.
 
 ## Current Focus
 
+- Helping non-coders use Codex to build useful and creative things while
+  retaining control of important decisions.
+- Plain-English project setup, approval boundaries, verification, and handoff.
 - Small-model and coding-agent harnesses for real tasks.
 - Structured outputs, context boundaries, action authority, and repeatable QA.
 - Evidence and human review for AI-assisted work.
@@ -43,11 +56,17 @@ I am also the author of The Mana Influx Series and Soul Spark Reclaimer.
 
 ## Public Projects
 
-Small public projects I am building carefully:
+### Build and Create with Codex
 
-- [Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook):
-  a practical guide for non-coders who want agents to do most of the work
-  without losing control of project decisions.
+- [Build with Codex: A Plain-English Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook):
+  guidance for completing real projects without needing to read code or manage
+  every technical step.
+- [Codex Project Instructions Starter](https://github.com/TheDarkniteFalls/codex-project-instructions-starter):
+  copyable project rules, public/private boundaries, checks, and handoff
+  templates.
+
+### Reliability Under the Hood
+
 - [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate): the
   flagship pattern for reviewable agent-run receipts.
 - [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab):
@@ -62,29 +81,31 @@ Small public projects I am building carefully:
   one-command proof that an important workflow still works.
 - [Public Repo Safety Kit](https://github.com/TheDarkniteFalls/public-repo-safety-kit):
   simple checks for public-candidate repositories.
-- [Codex Project Instructions Starter](https://github.com/TheDarkniteFalls/codex-project-instructions-starter):
-  copyable project instructions for agent-assisted work.
 
-Each project is intentionally small: one clear idea, fake data only, and either
-copyable guidance or a command a visitor can run locally.
+Each project is intentionally small: one clear idea, synthetic or public-safe
+data, and a result another person can inspect.
 
 ## How These Fit Together
 
-The projects form a small public workflow:
+For a non-coder directing a real project:
 
-1. Start with Agent Operator Handbook for the plain-language operating method,
-   or Local Assistant Reliability Lab for the runnable technical map.
-2. Give coding agents clear project rules and classify proposed actions.
-3. Validate model output, supplied evidence, and expected write boundaries.
-4. Keep the important workflow healthy with one green-spine command.
-5. Leave a reviewable receipt with EvidenceGate.
-6. Check the public-candidate repo before publishing it.
+1. Describe the finished result in ordinary language.
+2. Let Codex inspect the project and draft the Project Card.
+3. Decide what must stay protected and what needs your approval.
+4. Let Codex do the approved work and choose appropriate technical checks.
+5. Verify the visible result, evidence, uncertainty, and next action in plain
+   language.
+
+Underneath that experience, the reliability toolkit gives coding agents clear
+rules, validates model output and evidence boundaries, keeps important
+workflows healthy, records reviewable receipts, and checks public-candidate
+repositories before publication.
 
 ## How I Work
 
 I prefer practical applications of AI over purely theoretical work. Public
-examples use fake data, explicit boundaries, and setup instructions that can be
-checked by another person.
+examples use synthetic or public-safe data, explicit boundaries, and setup
+instructions that can be checked by another person.
 
 My work here is independent unless stated otherwise. I keep private notes,
 credentials, logs, connector exports, and personal context out of public
