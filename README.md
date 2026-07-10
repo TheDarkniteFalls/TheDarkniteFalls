@@ -1,22 +1,17 @@
-![Two warm and cool paths converging on a review check](assets/two-paths-banner.jpg)
+![Mike Parsons looking across a landscape where stories and technical ideas meet](assets/mike-parsons-banner.jpg)
 
-# Mike Parsons
+# Hi, I'm Mike.
 
-I help people build better with Codex and other AI tools. Whether you're a non-coder
-turning ideas into working projects or a technical builder strengthening the
-reliability, reviewability, and safety of AI-assisted systems - there's something here for you!
+I'm an author, hands-on builder, and AI Craft leader from New Zealand. I use
+Codex and other AI tools to turn ambitious ideas into real projects—and to
+learn what makes AI-assisted work actually useful.
 
-I am an author, AI Craft leader, and hands-on builder. My work connects two
-audiences that are often treated separately:
+I care about two things that belong together: making this capability accessible
+to people who do not code, and making it more reliable, reviewable, and safe
+for people building serious systems.
 
-- people who want to create useful things without becoming software engineers
-  first; and
-- developers, researchers, and technical teams looking for stronger ways to
-  direct agents, validate results, manage authority, and leave useful evidence.
-
-My research is practice-led: build on real tasks, isolate what succeeds or
-fails, and turn the lesson into a small pattern that other people can inspect,
-run, and adapt.
+This profile is where I publish the practical results: plain-English guides,
+small runnable patterns, and evidence you can inspect for yourself.
 
 ## Choose Your Path
 
@@ -61,9 +56,5 @@ Series and Soul Spark Reclaimer. That mix matters: the guidance and technical
 patterns come from trying to make real things, not from treating AI reliability
 as a purely theoretical problem.
 
-I prefer useful, bounded experiments over hype. Public examples include setup
-instructions, explicit limits, and evidence that another person can check.
-
-My work here is independent unless stated otherwise. I keep private notes,
-credentials, logs, connector exports, and personal context out of public
-repositories.
+I prefer useful, bounded experiments over hype—and I like leaving behind
+something another person can actually use.
