@@ -13,6 +13,8 @@ for people building serious systems.
 This profile is where I publish the practical results: plain-English guides,
 small runnable patterns, and evidence you can inspect for yourself.
 
+If you want to check out how Dungeons and Dragons meets Sci Fi meets the Apocalypse, look here: https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745
+
 ## Choose Your Path
 
 ### I want to turn an idea into something real
