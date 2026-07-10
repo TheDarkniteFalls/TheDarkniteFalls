@@ -40,8 +40,7 @@ If you want to check out how Dungeons and Dragons meets Sci Fi meets the Apocaly
 
 ## What Connects the Work
 
-The goal is not simply to generate more code. It is to make AI-assisted
-building more accessible without lowering the standard of thought, control,
+The goal is to make AI-assisted building more accessible without lowering the standard of thought, control,
 or proof.
 
 - **Make capability accessible.** People should be able to direct ambitious
@@ -55,9 +54,7 @@ or proof.
 
 I use these approaches on working websites, tools, workflows, local-model
 experiments, and creative projects. I am also the author of The Mana Influx
-Series and Soul Spark Reclaimer. That mix matters: the guidance and technical
-patterns come from trying to make real things, not from treating AI reliability
-as a purely theoretical problem.
+Series and Soul Spark Reclaimer. 
 
-I prefer useful, bounded experiments over hype—and I like leaving behind
+I try to make real things rather than explore purely theoretical problems and hype — I like leaving behind
 something another person can actually use.
