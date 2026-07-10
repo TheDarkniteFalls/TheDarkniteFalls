@@ -17,6 +17,9 @@ I am also the author of The Mana Influx Series and Soul Spark Reclaimer.
 
 ## Start Here
 
+- If you are not a coder, start with the [Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)
+  for a plain-language way to set boundaries, review evidence, and help a
+  project learn from completed work.
 - Start with [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate)
   for the core human-review pattern.
 - Use the [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)
@@ -42,6 +45,9 @@ I am also the author of The Mana Influx Series and Soul Spark Reclaimer.
 
 Small public projects I am building carefully:
 
+- [Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook):
+  a practical guide for non-coders who want agents to do most of the work
+  without losing control of project decisions.
 - [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate): the
   flagship pattern for reviewable agent-run receipts.
 - [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab):
@@ -59,14 +65,15 @@ Small public projects I am building carefully:
 - [Codex Project Instructions Starter](https://github.com/TheDarkniteFalls/codex-project-instructions-starter):
   copyable project instructions for agent-assisted work.
 
-Each project is intentionally small: one clear idea, fake data only, and a
-command a visitor can run locally.
+Each project is intentionally small: one clear idea, fake data only, and either
+copyable guidance or a command a visitor can run locally.
 
 ## How These Fit Together
 
 The projects form a small public workflow:
 
-1. Start with Local Assistant Reliability Lab for the map.
+1. Start with Agent Operator Handbook for the plain-language operating method,
+   or Local Assistant Reliability Lab for the runnable technical map.
 2. Give coding agents clear project rules and classify proposed actions.
 3. Validate model output, supplied evidence, and expected write boundaries.
 4. Keep the important workflow healthy with one green-spine command.
