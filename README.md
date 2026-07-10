@@ -1,8 +1,8 @@
 # Mike Parsons
 
-I help people build better with Codex and other AI tools: from non-coders
-turning ideas into working projects to technical builders strengthening the
-reliability, reviewability, and safety of AI-assisted systems.
+I help people build better with Codex and other AI tools. Whether you're a non-coder
+turning ideas into working projects or a technical builder strengthening the
+reliability, reviewability, and safety of AI-assisted systems - there's something here for you!
 
 I am an author, AI Craft leader, and hands-on builder. My work connects two
 audiences that are often treated separately:
