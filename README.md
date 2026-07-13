@@ -16,6 +16,36 @@ Away from the technical work, I write stories where fantasy, science fiction,
 and the apocalypse collide. You can
 [meet The Mana Influx Series on Amazon](https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745).
 
+## How The Pieces Work Together
+
+Here is the simple loop behind the reliability projects:
+
+```mermaid
+flowchart LR
+    A["Evidence you supplied"] --> B["A proposal with clear limits"]
+    B --> C{"Does the authority still fit?"}
+    C -->|"No"| D["Pause and ask for a fresh grant"]
+    C -->|"Yes"| E["Work within the agreed scope"]
+    E --> F["Run the right checks"]
+    F --> G["Tie claims to the exact revision"]
+    G --> H["Human review decides what happens next"]
+```
+
+AI can do a lot of the proposing and making, but it should not have to carry
+the responsibility alone. The surrounding workflow keeps sources, authority,
+validation, evidence, and consequential decisions in human hands.
+
+## Pick A Place To Start
+
+| If this is the problem... | Start here | What you will see |
+| --- | --- | --- |
+| Stop an agent from exceeding its authority | [Complete reliable-agent workflow](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab#see-it-all-come-together) | Protected writes, grant replay, and changed scope are rejected |
+| Prove a receipt targets the reviewed revision | [EvidenceGate v1 reference run](https://github.com/TheDarkniteFalls/evidencegate#quick-start) | Stale heads, omitted paths, and protected paths fail |
+| Keep answers inside supplied evidence | [Context Boundary Examples](https://github.com/TheDarkniteFalls/context-boundary-examples#run) | Unsupported answers and missing citations fail |
+
+Everything here uses small synthetic examples, runs without needing a model,
+and is honest about what a pass does and does not prove.
+
 ## Maybe My Strongest Project
 
 [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate) began with a
@@ -45,7 +75,8 @@ method rather than pretending the result already exists.
   for a hardened, inspectable way to bind claims, checks, file scope, and human
   review to one Git revision.
 - Use the [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)
-  to find runnable patterns by reliability problem.
+  to watch the complete workflow come together or find a focused pattern for
+  the reliability problem you are facing.
 - Explore focused examples for [context boundaries](https://github.com/TheDarkniteFalls/context-boundary-examples),
   [action authority](https://github.com/TheDarkniteFalls/agent-action-authority-examples),
   [model-output validation](https://github.com/TheDarkniteFalls/local-model-reliability-example),
