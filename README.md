@@ -16,7 +16,7 @@ Away from the technical work, I write stories where fantasy, science fiction,
 and the apocalypse collide. You can
 [meet The Mana Influx Series on Amazon](https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745).
 
-## Maybe My STrongest Project
+## Maybe My Strongest Project
 
 [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate) began with a
 simple belief: AI-assisted work should leave a receipt. It has grown into a
@@ -25,8 +25,7 @@ human-reviewed agent work, with adversarial tests, separately written Python
 and Node consumers, an unsigned in-toto attestation profile ready for standard
 signing, and a reproducible reviewer-study protocol.
 
-I am proud of what it proves, and equally proud that it says what it does not:
-unsigned receipts are not authenticated, and the reviewer study provides a
+Unsigned receipts are not authenticated, and the reviewer study provides a
 method rather than pretending the result already exists.
 
 ## Choose Your Path
@@ -71,4 +70,4 @@ experiments, and creative projects. I am also the author of The Mana Influx
 Series and Soul Spark Reclaimer.
 
 I try to make real things rather than explore purely theoretical problems or
-hype—I like leaving behind something another person can actually use.
+hype — I like leaving behind something another person can actually use.
