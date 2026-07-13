@@ -6,9 +6,8 @@ I'm an author, hands-on builder, and AI Craft leader from New Zealand. I use
 Codex and other AI tools to turn ambitious ideas into real projects—and to
 learn what makes AI-assisted work actually useful.
 
-I care about two things that belong together: making this capability accessible
-to people who do not code, and making it more reliable, reviewable, and safe
-for people building serious systems.
+I care about making this capability accessible to people who do not code, and making it 
+more reliable, reviewable, and safe for people building serious systems.
 
 This profile is where I publish the practical results: plain-English guides,
 small runnable patterns, and evidence you can inspect for yourself.
@@ -17,7 +16,7 @@ Away from the technical work, I write stories where fantasy, science fiction,
 and the apocalypse collide. You can
 [meet The Mana Influx Series on Amazon](https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745).
 
-## A Project I'm Proud Of
+## Maybe My STrongest Project
 
 [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate) began with a
 simple belief: AI-assisted work should leave a receipt. It has grown into a
