@@ -1,5 +1,3 @@
-![Mike Parsons looking across a landscape where stories and technical ideas meet](assets/mike-parsons-banner.jpg)
-
 # Hi, I'm Mike.
 
 I'm an author, hands-on builder, and AI Craft leader from New Zealand. I use
