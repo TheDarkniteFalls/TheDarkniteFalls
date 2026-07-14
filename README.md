@@ -39,6 +39,14 @@ method rather than pretending the result already exists.
 - Use [Verify Without Reading Code](https://github.com/TheDarkniteFalls/agent-operator-handbook/blob/main/guides/VERIFY_WITHOUT_READING_CODE.md)
   to check the visible result, evidence, and uncertainty in plain language.
 
+### I am building a game with Codex
+
+- Start with the [Game Project Instructions for Coding Agents](https://github.com/TheDarkniteFalls/codex-project-instructions-starter/tree/main/examples/game-project)
+  to define sources of truth, protected assets and saves, approval gates,
+  exact checks, and the human playtest that still has to judge the result.
+- The starter is engine-neutral and can be adapted for Godot, Unity, Unreal,
+  or a custom engine.
+
 ### I want to strengthen an AI-assisted build
 
 - Start with [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate)
