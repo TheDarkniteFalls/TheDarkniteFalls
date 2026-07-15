@@ -33,6 +33,12 @@ direct serious builds without giving up control of the decisions that matter.
   preserve the human playtest. It is adaptable to Godot, Unity, Unreal, or a
   custom engine.
 
+**Help test the starter:** I am looking for three people to try one bounded,
+30-to-60-minute recurring-work task and share only public-safe feedback. The
+[first-use invitation](https://github.com/TheDarkniteFalls/agent-operator-handbook/issues/4)
+includes the download, trial steps, privacy boundary, and structured report
+form. No coding background is required.
+
 ## What I'm Building
 
 - **Reviewable agent work.**
