@@ -17,15 +17,16 @@ direct serious builds without giving up control of the decisions that matter.
 
 - **New to building with AI?** Start with
   [Build with Codex: A Plain-English Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)
-  to turn an idea into a bounded project and review the result without needing
-  to read all the code.
+  to turn an idea into a bounded project, download a minimum recurring-work
+  starter, and review the result without needing to read all the code.
 - **Reviewing AI-assisted code?** Try
   [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate), a practical
   way to bind claims, checks, file scope, and human review to one Git revision.
 - **Designing a reliable AI agent?** The
   [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)
   connects source boundaries, scoped authority, focused checks, and a
-  replayable receipt in one synthetic workflow.
+  replayable receipt in one synthetic workflow, then maps every public pattern
+  by problem, maturity, proof, and limitation.
 - **Building a game with Codex?** Use the
   [Game Project Instructions for Coding Agents](https://github.com/TheDarkniteFalls/codex-project-instructions-starter/tree/main/examples/game-project)
   to protect assets and saves, define approval gates, choose exact checks, and
@@ -54,6 +55,10 @@ direct serious builds without giving up control of the decisions that matter.
 These projects favour small synthetic examples, explicit limitations, and
 evidence a reviewer can inspect. A passing check is useful evidence, not a claim
 that the work is automatically correct, safe, or ready to publish.
+
+Use the Lab's [complete toolkit map](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab/blob/main/TOOLKIT_MAP.md)
+to choose among the current guides, tools, and specialized teaching patterns
+without having to learn the repository names first.
 
 ## Field Notes
 
