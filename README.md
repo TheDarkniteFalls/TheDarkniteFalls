@@ -15,18 +15,22 @@ direct serious builds without giving up control of the decisions that matter.
 
 ## Start Here
 
+- **Want a useful first project now?**
+  [Create a private Reliable AI Work Starter](https://github.com/new?template_owner=TheDarkniteFalls&template_name=reliable-ai-work-starter&visibility=private)
+  for one recurring workflow with named sources, approval boundaries, durable
+  state, and a reviewable handoff. It needs no app, model API, or public data.
 - **New to building with AI?** Start with
   [Build with Codex: A Plain-English Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)
-  to turn an idea into a bounded project, download a minimum recurring-work
-  starter, and review the result without needing to read all the code.
+  to turn an idea into a bounded project and review the result without needing
+  to read all the code.
 - **Reviewing AI-assisted code?** Try
   [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate), a practical
   way to bind claims, checks, file scope, and human review to one Git revision.
 - **Designing a reliable AI agent?** The
-  [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)
+  [Toolkit Navigator](https://thedarknitefalls.github.io/local-assistant-reliability-lab/)
   connects source boundaries, scoped authority, focused checks, and a
-  replayable receipt in one synthetic workflow, then maps every public pattern
-  by problem, maturity, proof, and limitation.
+  replayable receipt in one synthetic workflow, then recommends a public
+  pattern by problem, experience, runtime, proof, and limitation.
 - **Building a game with Codex?** Use the
   [Game Project Instructions for Coding Agents](https://github.com/TheDarkniteFalls/codex-project-instructions-starter/tree/main/examples/game-project)
   to protect assets and saves, define approval gates, choose exact checks, and
@@ -35,9 +39,10 @@ direct serious builds without giving up control of the decisions that matter.
 
 **Help test the starter:** I am looking for three people to try one bounded,
 30-to-60-minute recurring-work task and share only public-safe feedback. The
-[first-use invitation](https://github.com/TheDarkniteFalls/agent-operator-handbook/issues/4)
-includes the download, trial steps, privacy boundary, and structured report
-form. No coding background is required.
+[first-use report](https://github.com/TheDarkniteFalls/reliable-ai-work-starter/issues/new?template=first-use-report.yml)
+asks for the smallest useful evidence, and the public
+[evidence ledger](https://github.com/TheDarkniteFalls/reliable-ai-work-starter/blob/main/USAGE_EVIDENCE.md)
+shows what has actually been learned. No coding background is required.
 
 ## What I'm Building
 
@@ -62,9 +67,10 @@ These projects favour small synthetic examples, explicit limitations, and
 evidence a reviewer can inspect. A passing check is useful evidence, not a claim
 that the work is automatically correct, safe, or ready to publish.
 
-Use the Lab's [complete toolkit map](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab/blob/main/TOOLKIT_MAP.md)
-to choose among the current guides, tools, and specialized teaching patterns
-without having to learn the repository names first.
+Use the Lab's [two-minute Toolkit Navigator](https://thedarknitefalls.github.io/local-assistant-reliability-lab/)
+to get one recommendation, or scan the
+[complete toolkit map](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab/blob/main/TOOLKIT_MAP.md)
+when you want every option and trust boundary at once.
 
 ## Field Notes
 
