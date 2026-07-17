@@ -37,12 +37,10 @@ direct serious builds without giving up control of the decisions that matter.
   preserve the human playtest. It is adaptable to Godot, Unity, Unreal, or a
   custom engine.
 
-**Help test the starter:** I am looking for three people to try one bounded,
-30-to-60-minute recurring-work task and share only public-safe feedback. The
-[first-use report](https://github.com/TheDarkniteFalls/reliable-ai-work-starter/issues/new?template=first-use-report.yml)
-asks for the smallest useful evidence, and the public
-[evidence ledger](https://github.com/TheDarkniteFalls/reliable-ai-work-starter/blob/main/USAGE_EVIDENCE.md)
-shows what has actually been learned. No coding background is required.
+These routes are designed for self-service. Each technical project names its
+runtime, first check, proof boundary, and limitations before you need to clone
+or install anything. Most use synthetic data, make no model call, and require
+no account beyond GitHub.
 
 ## What I'm Building
 
