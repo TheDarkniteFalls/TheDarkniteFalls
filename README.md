@@ -52,8 +52,9 @@ no account beyond GitHub.
 - **Local-first assistant reliability.** The
   [Local Model Reliability Example](https://github.com/TheDarkniteFalls/local-model-reliability-example)
   keeps structured model output behind deterministic validation, and the
-  [SQLite Context Retrieval Example](https://github.com/TheDarkniteFalls/sqlite-context-retrieval-example)
-  shows how small metadata rules prevent specific retrieval failures.
+  [Context Contract Compiler](https://github.com/TheDarkniteFalls/context-contract-compiler)
+  protects required context, explains selection decisions, and rejects stale
+  receipts after declared material changes.
 - **Repeatable project confidence.** The
   [Green-Spine QA Pattern](https://github.com/TheDarkniteFalls/green-spine-qa-pattern)
   turns a representative end-to-end journey into one memorable checkpoint,
@@ -69,6 +70,8 @@ Use the Lab's [two-minute Toolkit Navigator](https://thedarknitefalls.github.io/
 to get one recommendation, or scan the
 [complete toolkit map](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab/blob/main/TOOLKIT_MAP.md)
 when you want every option and trust boundary at once.
+Agents and tools can read the same catalog from the
+[machine-readable toolkit index](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab/blob/main/toolkit_index.json).
 
 ## Field Notes
 
