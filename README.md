@@ -42,6 +42,20 @@ runtime, first check, proof boundary, and limitations before you need to clone
 or install anything. Most use synthetic data, make no model call, and require
 no account beyond GitHub.
 
+## New: Earned Confidence
+
+> **Unknown is a state, not zero.**
+
+Use this small TypeScript pattern when software must make decisions from
+incomplete evidence—for example during release reviews, deployment checks,
+simulations, agent memory, or risk assessments.
+
+It keeps evidence scoped to exactly what was observed, makes uncertainty
+explicit, and preserves what was known when a decision was made so later
+information cannot rewrite the record.
+
+[Try the 60-second example →](https://github.com/TheDarkniteFalls/earned-confidence)
+
 ## What I'm Building
 
 - **Reviewable agent work.**
