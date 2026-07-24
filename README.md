@@ -16,9 +16,11 @@ direct serious builds without giving up control of the decisions that matter.
 ## Start Here
 
 - **Want a useful first project now?**
-  [Create a private Reliable AI Work Starter](https://github.com/new?template_owner=TheDarkniteFalls&template_name=reliable-ai-work-starter&visibility=private)
+  [Preview the Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter),
+  then [create a private copy](https://github.com/new?template_owner=TheDarkniteFalls&template_name=reliable-ai-work-starter&visibility=private)
   for one recurring workflow with named sources, approval boundaries, durable
-  state, and a reviewable handoff. It needs no app, model API, or public data.
+  state, and a reviewable handoff. Setup takes about 10 minutes and needs no
+  app, model API, or public data.
 - **New to building with AI?** Start with
   [Build with Codex: A Plain-English Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)
   to turn an idea into a bounded project and review the result without needing
