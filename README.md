@@ -2,16 +2,14 @@
 
 I'm an author, hands-on builder, and AI Craft leader from New Zealand. I use
 Codex and other AI tools to turn ambitious ideas into working projects, then
-study what makes AI-assisted software development useful, reliable, and easy
-to understand.
+study what makes AI-assisted development useful, reliable, and easy to
+understand.
 
-I publish plain-English guides and small runnable examples for reliable AI
-agents, local AI assistants, human-reviewed workflows, source boundaries,
-scoped authority, and verification evidence. Most examples use synthetic data
-and run without calling a model.
-
-I'm especially interested in helping people who do not identify as programmers
-direct serious builds without giving up control of the decisions that matter.
+I publish plain-English guides and small runnable examples for people who want
+to direct serious builds without giving up control of the decisions that
+matter. The work focuses on reliable agents, local AI assistants, human-reviewed
+workflows, source boundaries, scoped authority, and verification evidence. Most
+examples use synthetic data and make no model call.
 
 ## Start Here
 
@@ -36,19 +34,17 @@ runtime, first check, proof boundary, and limitations before you need to clone
 or install anything. Most use synthetic data, make no model call, and require
 no account beyond GitHub.
 
-## New: Earned Confidence
+## Selected Open-Source Work
 
-> **Unknown is a state, not zero.**
-
-Use this small TypeScript pattern when software must make decisions from
-incomplete evidence—for example during release reviews, deployment checks,
-simulations, agent memory, or risk assessments.
-
-It keeps evidence scoped to exactly what was observed, makes uncertainty
-explicit, and preserves what was known when a decision was made so later
-information cannot rewrite the record.
-
-[Try the 60-second example →](https://github.com/TheDarkniteFalls/earned-confidence)
+- **Merged contribution:**
+  [Skillware PR #263](https://github.com/ARPAHLS/skillware/pull/263) added
+  documentation for OpenAI-compatible model hosts and merged after the
+  maintainer's requested revisions.
+- **Review contribution:** On
+  [GitHub Docs PR #45193](https://github.com/github/docs/pull/45193#issuecomment-5002096918),
+  I identified three bounded corrections to workflow-run status guidance; the
+  author implemented all three before the pull request returned to maintainer
+  review.
 
 ## What I'm Building
 
@@ -63,10 +59,12 @@ information cannot rewrite the record.
   [Context Contract Compiler](https://github.com/TheDarkniteFalls/context-contract-compiler)
   protects required context, explains selection decisions, and rejects stale
   receipts after declared material changes.
-- **Repeatable project confidence.** The
+- **Repeatable project confidence.**
+  [Earned Confidence](https://github.com/TheDarkniteFalls/earned-confidence)
+  treats unknown as a state, not zero, and preserves what was known when a
+  decision was made. The
   [Green-Spine QA Pattern](https://github.com/TheDarkniteFalls/green-spine-qa-pattern)
-  turns a representative end-to-end journey into one memorable checkpoint,
-  while the
+  turns a representative journey into one memorable checkpoint, while the
   [Public Repo Safety Kit](https://github.com/TheDarkniteFalls/public-repo-safety-kit)
   helps keep private context out of public repositories.
 - **Human-directed game development.** The
@@ -84,18 +82,6 @@ to get one recommendation, or scan the
 when you want every option and trust boundary at once.
 Agents and tools can read the same catalog from the
 [machine-readable toolkit index](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab/blob/main/toolkit_index.json).
-
-## Selected Open-Source Work
-
-- **Merged contribution:**
-  [Skillware PR #263](https://github.com/ARPAHLS/skillware/pull/263) added
-  documentation for OpenAI-compatible model hosts and merged after the
-  maintainer's requested revisions.
-- **Review contribution:** On
-  [GitHub Docs PR #45193](https://github.com/github/docs/pull/45193#issuecomment-5002096918),
-  I identified three bounded corrections to workflow-run status guidance; the
-  author implemented all three before the pull request returned to maintainer
-  review.
 
 ## Field Notes
 
