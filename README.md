@@ -15,29 +15,21 @@ direct serious builds without giving up control of the decisions that matter.
 
 ## Start Here
 
-- **Want a useful first project now?**
+- **Build one useful private workflow now.**
   [Preview the Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter),
   then [create a private copy](https://github.com/new?template_owner=TheDarkniteFalls&template_name=reliable-ai-work-starter&visibility=private)
   for one recurring workflow with named sources, approval boundaries, durable
   state, and a reviewable handoff. Setup takes about 10 minutes and needs no
   app, model API, or public data.
-- **New to building with AI?** Start with
+- **Learn how to direct and review AI work.** Start with
   [Build with Codex: A Plain-English Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)
   to turn an idea into a bounded project and review the result without needing
   to read all the code.
-- **Reviewing AI-assisted code?** Try
-  [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate), a practical
-  way to bind claims, checks, file scope, and human review to one Git revision.
-- **Designing a reliable AI agent?** The
+- **Find the right reliability pattern for your problem.** The
   [Toolkit Navigator](https://thedarknitefalls.github.io/local-assistant-reliability-lab/)
-  connects source boundaries, scoped authority, focused checks, and a
-  replayable receipt in one synthetic workflow, then recommends a public
-  pattern by problem, experience, runtime, proof, and limitation.
-- **Building a game with Codex?** Use the
-  [Game Project Instructions for Coding Agents](https://github.com/TheDarkniteFalls/codex-project-instructions-starter/tree/main/examples/game-project)
-  to protect assets and saves, define approval gates, choose exact checks, and
-  preserve the human playtest. It is adaptable to Godot, Unity, Unreal, or a
-  custom engine.
+  recommends a public example by problem, experience, runtime, proof, and
+  limitation. If you are reviewing AI-assisted code, begin with
+  [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate).
 
 These routes are designed for self-service. Each technical project names its
 runtime, first check, proof boundary, and limitations before you need to clone
@@ -77,6 +69,10 @@ information cannot rewrite the record.
   while the
   [Public Repo Safety Kit](https://github.com/TheDarkniteFalls/public-repo-safety-kit)
   helps keep private context out of public repositories.
+- **Human-directed game development.** The
+  [Game Project Instructions for Coding Agents](https://github.com/TheDarkniteFalls/codex-project-instructions-starter/tree/main/examples/game-project)
+  protects assets and saves, defines approval gates and checks, and preserves
+  the human playtest across Godot, Unity, Unreal, or a custom engine.
 
 These projects favour small synthetic examples, explicit limitations, and
 evidence a reviewer can inspect. A passing check is useful evidence, not a claim
@@ -88,6 +84,18 @@ to get one recommendation, or scan the
 when you want every option and trust boundary at once.
 Agents and tools can read the same catalog from the
 [machine-readable toolkit index](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab/blob/main/toolkit_index.json).
+
+## Selected Open-Source Work
+
+- **Merged contribution:**
+  [Skillware PR #263](https://github.com/ARPAHLS/skillware/pull/263) added
+  documentation for OpenAI-compatible model hosts and merged after the
+  maintainer's requested revisions.
+- **Review contribution:** On
+  [GitHub Docs PR #45193](https://github.com/github/docs/pull/45193#issuecomment-5002096918),
+  I identified three bounded corrections to workflow-run status guidance; the
+  author implemented all three before the pull request returned to maintainer
+  review.
 
 ## Field Notes
 
