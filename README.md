@@ -46,6 +46,15 @@ no account beyond GitHub.
   author implemented all three before the pull request returned to maintainer
   review.
 
+## Experimental Work Open for Review
+
+- **EvalBraid Evaluation Provenance Profile v0** records the evidence and
+  judgment boundaries of one evaluation attempt. It is experimental,
+  author-tested on macOS, and awaiting independent review. Linux portability
+  is untested and production use is not recommended.
+  [Read the draft](https://github.com/TheDarkniteFalls/evidencegate/pull/11)
+  or [reproduce the included fixtures](https://github.com/TheDarkniteFalls/evidencegate/issues/12).
+
 ## What I'm Building
 
 - **Reviewable agent work.**
@@ -53,6 +62,10 @@ no account beyond GitHub.
   catches answers that outrun supplied evidence, while
   [Agent Action Authority Examples](https://github.com/TheDarkniteFalls/agent-action-authority-examples)
   tests whether an approval still matches the exact action being proposed.
+- **Agent evidence and evaluation.** The
+  [Agent Evidence Catalog](https://github.com/TheDarkniteFalls/agent-evidence-catalog)
+  is a static, synthetic reference for comparing exact agent versions by
+  authority, evidence, and known gaps. Real-agent profile intake is not open.
 - **Local-first assistant reliability.** The
   [Local Model Reliability Example](https://github.com/TheDarkniteFalls/local-model-reliability-example)
   keeps structured model output behind deterministic validation, and the
