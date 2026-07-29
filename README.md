@@ -48,9 +48,19 @@ can read the same catalog from its
   [independent reproduction](https://github.com/TheDarkniteFalls/evidencegate/issues/12).
   It is experimental, not independently validated, and not recommended for
   production use.
-- External contributions include merged documentation in
-  [Skillware PR #263](https://github.com/ARPAHLS/skillware/pull/263) and a review
-  of [GitHub Docs PR #45193](https://github.com/github/docs/pull/45193#issuecomment-5002096918).
+
+### Selected External Work
+
+- **Merged:** [Skillware PR #263](https://github.com/ARPAHLS/skillware/pull/263)
+  documented OpenAI-compatible model hosts.
+- **Approved, awaiting merge:** [Kroxylicious PR #4434](https://github.com/kroxylicious/kroxylicious/pull/4434)
+  fixed latest-release ordering; the maintainer approved it and all applicable
+  checks passed.
+- **Review incorporated:** [GitHub Docs PR #45193](https://github.com/github/docs/pull/45193#issuecomment-5002096918)
+  implemented all three evidence-boundary corrections raised in review.
+- **Active:** [Skillware PR #271](https://github.com/ARPAHLS/skillware/pull/271)
+  adds repository profiles to issue resolution and is awaiting maintainer
+  review with Skillware CI and CodeQL passing.
 
 ## About Me
 
