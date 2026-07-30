@@ -53,9 +53,8 @@ can read the same catalog from its
 
 - **Merged:** [Skillware PR #263](https://github.com/ARPAHLS/skillware/pull/263)
   documented OpenAI-compatible model hosts.
-- **Approved, awaiting merge:** [Kroxylicious PR #4434](https://github.com/kroxylicious/kroxylicious/pull/4434)
-  fixed latest-release ordering; the maintainer approved it and all applicable
-  checks passed.
+- **Merged:** [Kroxylicious PR #4434](https://github.com/kroxylicious/kroxylicious/pull/4434)
+  fixed latest-release ordering.
 - **Review incorporated:** [GitHub Docs PR #45193](https://github.com/github/docs/pull/45193#issuecomment-5002096918)
   implemented all three evidence-boundary corrections raised in review.
 - **Active:** [Skillware PR #271](https://github.com/ARPAHLS/skillware/pull/271)
