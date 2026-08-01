@@ -44,11 +44,18 @@ can read the same catalog from its
 - The [Agent Evidence Catalog](https://github.com/TheDarkniteFalls/agent-evidence-catalog)
   is an experimental, synthetic reference for comparing exact agent versions
   by authority, evidence, and known gaps. Real-agent intake is not open.
-- [EvalBraid Evaluation Provenance Profile v0](https://github.com/TheDarkniteFalls/evidencegate/pull/11)
-  is open for bounded technical review and
-  [independent reproduction](https://github.com/TheDarkniteFalls/evidencegate/issues/12).
-  It is experimental, not independently validated, and not recommended for
-  production use.
+- **Help make AI evaluation results easier to audit.**
+  [EvalBraid](https://github.com/TheDarkniteFalls/evidencegate/pull/11) is an
+  experimental record format and checker for one model or agent evaluation
+  run. It keeps the verifier's result, the reason a run failed, and a human's
+  later judgment as separate, traceable facts instead of flattening them into
+  one opaque verdict.
+
+  If you build evaluation harnesses, benchmark pipelines, or audit tooling,
+  [pick one bounded contribution](https://github.com/TheDarkniteFalls/evidencegate/issues/12):
+  run the conformance gate on Linux, add a minimal adverse fixture, or review
+  one semantic or privacy boundary. Partial findings are useful; no private
+  data or production adoption is required.
 
 ### Selected External Work
 
