@@ -1,4 +1,4 @@
-# Build serious things with AI—even if you don’t code.
+# Build awesome things with AI, even if you don’t code.
 
 I’m Mike, a hands-on AI workflow builder from New Zealand. I help non-coders
 turn ideas into bounded, reviewable builds without handing consequential
