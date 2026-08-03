@@ -1,6 +1,6 @@
-# Build awesome things with AI, even if you don’t code.
+# Build awesome things with Codex.
 
-I’m Mike, a hands-on AI workflow builder from New Zealand. I help non-coders
+I’m Mike, a hands-on AI workflow builder from New Zealand. I help people
 turn ideas into fun and useful, reviewable builds without handing consequential
 decisions to AI.
 
