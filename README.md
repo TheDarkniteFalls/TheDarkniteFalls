@@ -1,6 +1,6 @@
 # Build awesome stuff with AI.
 
-I love using Codex to turn ideas into useful tools and assets. Join in the fun!
+I use Codex to turn ideas into useful tools and assets. Join in the fun!
 
 ## Start Building
 
