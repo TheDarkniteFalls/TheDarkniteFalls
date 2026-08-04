@@ -1,48 +1,36 @@
-# Build awesome things with Codex.
+# Build awesome stuff with AI.
 
-I’m Mike, a hands-on AI workflow builder from New Zealand. I help people
-turn ideas into fun and useful, reviewable builds without handing consequential
-decisions to AI.
+I love using Codex to turn ideas into useful tools and assets. Join in the fun!
 
-## Start Here
+## Start Building
 
-**[Build with Codex: A Plain-English Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)**
-is my flagship guide to directing and reviewing AI-assisted work.
+You don’t need to become a developer before you make something useful.
 
-It shows you how to scope one useful project, give an AI clear authority,
-inspect what it produced, and finish with evidence another person can verify.
-You can learn the method without reading code.
+1. **Learn the method:** The **[Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)** offers a practical, plain-English approach to directing and reviewing AI-assisted work.
+2. **Try it:** The **[Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter)** helps you set up one useful private workflow in about 10 minutes, without building an app or granting broad access. You can [create a private copy](https://github.com/new?template_owner=TheDarkniteFalls&template_name=reliable-ai-work-starter&visibility=private) when you’re ready.
 
-## Try It Now
+## Go Deeper
 
-Use the
-**[Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter)**
-to build one useful private workflow in about 10 minutes.
+If you already build with AI and want useful open-source tools or patterns to inspect, adapt, or build on:
 
-You can
-[preview the starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter)
-or
-[create a private copy](https://github.com/new?template_owner=TheDarkniteFalls&template_name=reliable-ai-work-starter&visibility=private).
+- **[EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate)** leaves a revision-bound receipt connecting claims, checks, changed paths, and human review.
+- **[Context Contract Compiler](https://github.com/TheDarkniteFalls/context-contract-compiler)** is a runnable context debugger that shows why information was included or excluded—and refuses to continue from stale or invalid context.
 
-It requires no app, model API, or public data.
+You can explore the complete collection through the **[Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)**.
 
-## See the Proof Behind the Method
+### Current Experiments
 
-- [EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate) leaves a
-  revision-bound receipt for human-reviewed AI-assisted work.
-- The
-  [Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)
-  collects the stable guides, tools, and patterns behind the approach.
+I’m currently exploring a couple of harder questions around trustworthy AI systems:
 
-Most examples use synthetic data, make no model call, and keep consequential
-decisions with people. Some proof repositories include optional deterministic
-Python checks, but the practical lessons are documented in plain English.
+- **[Agent Evidence Catalog](https://github.com/TheDarkniteFalls/agent-evidence-catalog)** — a synthetic experimental reference for comparing exact agent versions by authority, evidence, and known gaps.
+- **[Model Workload Telemetry](https://github.com/TheDarkniteFalls/model-workload-telemetry)** — a deterministic way to compare model runs within shared workloads without pretending there is one universal winner.
+
+## See How I Work
+
+If you’re keen to work together, take a look through [my work](https://github.com/TheDarkniteFalls?tab=repositories).
 
 ## About Me
 
-I’m also an author and AI Craft leader. I write *The Mana Influx Series* and
-*Soul Spark Reclaimer*. You can
-[meet The Mana Influx Series on Amazon](https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745).
+I’m also an author and AI Craft leader. I write *The Mana Influx Series* and *Soul Spark Reclaimer*. You can [meet The Mana Influx Series on Amazon](https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745).
 
-My working principles are simple: make capability accessible, keep humans
-responsible, and leave evidence another person can inspect.
+My working principles are simple: make capability accessible, keep humans responsible, and leave evidence another person can inspect.
