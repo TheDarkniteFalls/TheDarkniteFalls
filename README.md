@@ -27,7 +27,7 @@ I’m currently exploring a couple of harder questions around trustworthy AI sys
 
 ## See How I Work
 
-If you’re keen to work together, take a look through [my work](https://github.com/TheDarkniteFalls?tab=repositories).
+If you’re keen to work together, explore the pinned projects below or [connect with me on LinkedIn](https://nz.linkedin.com/in/mikeairnz).
 
 ## About Me
 
