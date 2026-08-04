@@ -9,7 +9,7 @@ You don’t need to become a developer before you make something useful.
 1. **Learn the method:** The **[Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)** offers a practical, plain-English approach to directing and reviewing AI-assisted work.
 2. **Try it:** The **[Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter)** helps you set up one useful private workflow in about 10 minutes, without building an app or granting broad access. You can [create a private copy](https://github.com/new?template_owner=TheDarkniteFalls&template_name=reliable-ai-work-starter&visibility=private) when you’re ready.
 
-## Go Deeper
+## Already Building? Go Deeper
 
 If you already build with AI and want useful open-source tools or patterns to inspect, adapt, or build on:
 
