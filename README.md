@@ -27,6 +27,9 @@ I’m currently exploring a couple of harder questions around trustworthy AI sys
 
 ## See How I Work
 
+- **Merged upstream:** [Skillware PR #263](https://github.com/ARPAHLS/skillware/pull/263) improved model-host documentation; [Kroxylicious PR #4434](https://github.com/kroxylicious/kroxylicious/pull/4434) fixed latest-release ordering; and [Skillware PR #271](https://github.com/ARPAHLS/skillware/pull/271) added repository-profile support to issue resolution.
+- **Review incorporated:** [GitHub Docs PR #45193](https://github.com/github/docs/pull/45193#issuecomment-5002096918) addressed all three evidence-boundary points I raised.
+
 If you’re keen to work together, explore the pinned projects below or [connect with me on LinkedIn](https://nz.linkedin.com/in/mikeairnz).
 
 ## About Me
