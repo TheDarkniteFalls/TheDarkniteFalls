@@ -2,6 +2,14 @@
 
 I use Codex to turn ideas into useful tools and assets. Join in the fun!
 
+## Choose your route
+
+The live [Reliability Navigator](https://thedarknitefalls.github.io/local-assistant-reliability-lab/) is the source for these routes:
+
+- [Start a bounded private workflow](https://thedarknitefalls.github.io/local-assistant-reliability-lab/)
+- [Govern coding-agent work](https://thedarknitefalls.github.io/local-assistant-reliability-lab/?journey=evaluate_and_operate&problem=context-contract-compiler&help_type=runnable_check&runtime=python&local=1&no_model=1&read_only=1&path=govern-coding-work)
+- [Compare agent options](https://thedarknitefalls.github.io/local-assistant-reliability-lab/?journey=bound_and_prove&problem=agent-evidence-catalog&help_type=guide&runtime=no_code&local=1&no_model=1&read_only=1&path=compare-agent-options)
+
 ## Start Building
 
 You don’t need to become a developer before you make something useful.
