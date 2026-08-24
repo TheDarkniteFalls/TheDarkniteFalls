@@ -32,6 +32,7 @@ I’m currently exploring a couple of harder questions around trustworthy AI sys
 
 - **[Agent Evidence Catalog](https://github.com/TheDarkniteFalls/agent-evidence-catalog)** — a synthetic experimental reference for comparing exact agent versions by authority, evidence, and known gaps.
 - **[Model Workload Telemetry](https://github.com/TheDarkniteFalls/model-workload-telemetry)** — a deterministic way to compare model runs within shared workloads without pretending there is one universal winner.
+- **[Detecting AI Deception](https://thedarknitefalls.github.io/detecting-ai-deception/)** — an interactive investigation comparing observable claims with evidence across exactly six synthetic teaching cases; it does not assess intent or infer deliberate lying.
 
 ## See How I Work
 
