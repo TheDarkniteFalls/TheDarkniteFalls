@@ -1,45 +1,26 @@
-# Build awesome stuff with AI.
+# Mike Parsons
 
-I use Codex to turn ideas into useful tools and assets. Join in the fun!
+## Detecting AI Deception
 
-## Choose your route
+Examine bounded AI claims against observable evidence, with clear limits on what the evidence can establish.
 
-The live [Reliability Navigator](https://thedarknitefalls.github.io/local-assistant-reliability-lab/) is the source for these routes:
+**[Explore Detecting AI Deception](https://thedarknitefalls.github.io/detecting-ai-deception/)**
 
-- [Start a bounded private workflow](https://thedarknitefalls.github.io/local-assistant-reliability-lab/)
-- [Govern coding-agent work](https://thedarknitefalls.github.io/local-assistant-reliability-lab/?journey=evaluate_and_operate&problem=context-contract-compiler&help_type=runnable_check&runtime=python&local=1&no_model=1&read_only=1&path=govern-coding-work)
-- [Compare agent options](https://thedarknitefalls.github.io/local-assistant-reliability-lab/?journey=bound_and_prove&problem=agent-evidence-catalog&help_type=guide&runtime=no_code&local=1&no_model=1&read_only=1&path=compare-agent-options)
+## Building with Codex
 
-## Start Building
+Complete substantial useful work with Codex: start with a practical method, build one useful workflow, and improve it through review and checks.
 
-You don’t need to become a developer before you make something useful.
+**[Explore Building with Codex](https://thedarknitefalls.github.io/building-with-codex/)** for a documented contribution, a place to start, and tools to improve your method.
 
-1. **Learn the method:** The **[Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)** offers a practical, plain-English approach to directing and reviewing AI-assisted work.
-2. **Try it:** The **[Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter)** helps you set up one useful private workflow in about 10 minutes, without building an app or granting broad access. You can [create a private copy](https://github.com/new?template_owner=TheDarkniteFalls&template_name=reliable-ai-work-starter&visibility=private) when you’re ready.
+You can start now with the **[Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)** and **[Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter)**. The **[Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)** is the wider supporting collection of tools and patterns.
 
-## Already Building? Go Deeper
+## Selected Contribution
 
-If you already build with AI and want useful open-source tools or patterns to inspect, adapt, or build on:
+In **[Inspect AI PR #4713](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4713)**, I contributed S3 write ETag returns, including repairs following maintainer review and Trio support. [@ransomr reviewed and approved the change](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4713#pullrequestreview-5043840043); it merged on 27 August 2026.
 
-- **[EvidenceGate](https://github.com/TheDarkniteFalls/evidencegate)** leaves a revision-bound receipt connecting claims, checks, changed paths, and human review.
-- **[Context Contract Compiler](https://github.com/TheDarkniteFalls/context-contract-compiler)** is a runnable context debugger that shows why information was included or excluded—and refuses to continue from stale or invalid context.
+I authored the contribution as **@TheDarkniteFalls**, with disclosed **OpenAI Codex assistance for implementation, review, and validation**. This is one accepted contribution, not a measurement of productivity or an endorsement of the method.
 
-You can explore the complete collection through the **[Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)**.
-
-### Current Experiments
-
-I’m currently exploring a couple of harder questions around trustworthy AI systems:
-
-- **[Agent Evidence Catalog](https://github.com/TheDarkniteFalls/agent-evidence-catalog)** — a synthetic experimental reference for comparing exact agent versions by authority, evidence, and known gaps.
-- **[Model Workload Telemetry](https://github.com/TheDarkniteFalls/model-workload-telemetry)** — a deterministic way to compare model runs within shared workloads without pretending there is one universal winner.
-- **[Detecting AI Deception](https://thedarknitefalls.github.io/detecting-ai-deception/)** — an interactive investigation comparing observable claims with evidence across exactly six synthetic teaching cases; it does not assess intent or infer deliberate lying.
-
-## See How I Work
-
-- **Merged upstream:** [Skillware PR #263](https://github.com/ARPAHLS/skillware/pull/263) improved model-host documentation; [Kroxylicious PR #4434](https://github.com/kroxylicious/kroxylicious/pull/4434) fixed latest-release ordering; and [Skillware PR #271](https://github.com/ARPAHLS/skillware/pull/271) added repository-profile support to issue resolution.
-- **Review incorporated:** [GitHub Docs PR #45193](https://github.com/github/docs/pull/45193#issuecomment-5002096918) addressed all three evidence-boundary points I raised.
-
-If you’re keen to work together, explore the pinned projects below or [connect with me on LinkedIn](https://nz.linkedin.com/in/mikeairnz).
+If you’re keen to work together, explore the projects above or [connect with me on LinkedIn](https://nz.linkedin.com/in/mikeairnz).
 
 ## About Me
 
