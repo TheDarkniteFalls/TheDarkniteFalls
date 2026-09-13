@@ -1,4 +1,4 @@
-# Mike Parsons
+# Build awesome stuff with AI!
 
 ## Detecting AI Deception
 
