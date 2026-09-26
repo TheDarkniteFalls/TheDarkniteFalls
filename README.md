@@ -2,9 +2,9 @@
 
 ## Detecting AI Deception
 
-Examine bounded AI claims against observable evidence, with clear limits on what the evidence can establish.
+Use Agent Claim Check to compare a structured agent claim with supplied evidence and get a reproducible result: supported, contradicted or insufficient evidence.
 
-**[Explore Detecting AI Deception](https://thedarknitefalls.github.io/detecting-ai-deception/)**
+**[Explore Agent Claim Check](https://thedarknitefalls.github.io/detecting-ai-deception/)**
 
 ## Building with Codex
 
