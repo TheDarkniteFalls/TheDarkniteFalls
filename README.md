@@ -1,18 +1,18 @@
 # Build awesome stuff with AI!
 
-## Detecting AI Deception
+Hi, I’m Mike. I use AI to help build practical tools and contribute to open source. I’m also an author: I write *The Mana Influx Series* and *Soul Spark Reclaimer*. This is where I share the tools, examples and working methods behind the software side of that work.
 
-Use Agent Claim Check to compare a structured agent claim with supplied evidence and get a reproducible result: supported, contradicted or insufficient evidence.
+## Where would you like to start?
 
-**[Explore Agent Claim Check](https://thedarknitefalls.github.io/detecting-ai-deception/)**
+### Build something with Codex
 
-## Building with Codex
+**[Building with Codex](https://thedarknitefalls.github.io/building-with-codex/)** walks through choosing a useful piece of work, giving Codex a clear brief, and checking the result. Start there for a practical method and examples of what review can catch.
 
-Complete substantial useful work with Codex: start with a practical method, build one useful workflow, and improve it through review and checks.
+### Check an agent’s claim
 
-**[Explore Building with Codex](https://thedarknitefalls.github.io/building-with-codex/)** for a documented contribution, a place to start, and tools to improve your method.
+**[Agent Claim Check](https://thedarknitefalls.github.io/detecting-ai-deception/)**: Compare an agent’s claim with the evidence you provide. Try an example to see how a structured claim can be supported, contradicted or left with insufficient evidence. The tool compares what you supply; it doesn’t gather or authenticate evidence, or determine intent.
 
-You can start now with the **[Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)** and **[Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter)**. The **[Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)** is the wider supporting collection of tools and patterns.
+For a guide you can keep beside your own work, open the **[Agent Operator Handbook](https://github.com/TheDarkniteFalls/agent-operator-handbook)**. The **[Reliable AI Work Starter](https://github.com/TheDarkniteFalls/reliable-ai-work-starter)** gives you files to adapt for a first task. You’ll find more local checks and examples in the **[Local Assistant Reliability Lab](https://github.com/TheDarkniteFalls/local-assistant-reliability-lab)**.
 
 ## Selected Contribution
 
@@ -22,8 +22,8 @@ I authored the contribution as **@TheDarkniteFalls**, with disclosed **OpenAI Co
 
 If you’re keen to work together, explore the projects above or [connect with me on LinkedIn](https://nz.linkedin.com/in/mikeairnz).
 
-## About Me
+## Beyond the software
 
-I’m also an author and AI Craft leader. I write *The Mana Influx Series* and *Soul Spark Reclaimer*. You can [meet The Mana Influx Series on Amazon](https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745).
+I’m an AI Craft leader as well as an author. If you’re here for the fiction, you can [meet The Mana Influx Series on Amazon](https://www.amazon.com/The-Mana-Influx/dp/B0CNPWZ745).
 
-My working principles are simple: make capability accessible, keep humans responsible, and leave evidence another person can inspect.
+When I share AI-assisted work here, I want you to be able to try it, see what was checked, and decide what the result means for your own work. I remain responsible for the work I publish.
